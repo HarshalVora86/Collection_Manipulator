@@ -160,35 +160,35 @@ python pr_3.py
 ### 📋 Display All Students
 > Both students shown in clean formatted output
 
-![Display Students](PR_3_1.png)
+![Display Students](PR_3.1.png)
 
 ---
 
 ### ✏️ Updating Student Records
 > Updating Abhi's name to Aarav and Anuj's subjects to English, Python
 
-![Update Students](PR_3_2.png)
+![Update Students](PR_3.2.png)
 
 ---
 
 ### 🔁 Verifying Updates
 > All changes reflected correctly after update
 
-![Post Update](PR_3_3.png)
+![Post Update](PR_3.3.png)
 
 ---
 
 ### 🗑️ Deleting a Student
 > Student ID 102 deleted — only ID 101 remains
 
-![Delete Student](PR_3_4.png)
+![Delete Student](PR_3.4.png)
 
 ---
 
 ### 📚 View Subjects Offered
 > All subjects of remaining students listed
 
-![Subjects](PR_3_5.png)
+![Subjects](PR_3.5.png)
 
 ---
 
@@ -199,11 +199,11 @@ python pr_3.py
 │
 ├── 🐍 pr_3.py         ← Main Python script
 ├── 🖼️ PR_3.png        ← Screenshot: Add student
-├── 🖼️ PR_3_1.png      ← Screenshot: Display all
-├── 🖼️ PR_3_2.png      ← Screenshot: Update records
-├── 🖼️ PR_3_3.png      ← Screenshot: Verify updates
-├── 🖼️ PR_3_4.png      ← Screenshot: Delete student
-├── 🖼️ PR_3_5.png      ← Screenshot: View subjects
+├── 🖼️ PR_3.1.png      ← Screenshot: Display all
+├── 🖼️ PR_3.2.png      ← Screenshot: Update records
+├── 🖼️ PR_3.3.png      ← Screenshot: Verify updates
+├── 🖼️ PR_3.4.png      ← Screenshot: Delete student
+├── 🖼️ PR_3.5.png      ← Screenshot: View subjects
 └── 📄 README.md       ← Project documentation
 ```
 
